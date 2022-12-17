@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt", "TreasureHunt.csproj", "{EFB882CD-3B85-4D62-A9F1-1F9FAD0CFBBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFB882CD-3B85-4D62-A9F1-1F9FAD0CFBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB882CD-3B85-4D62-A9F1-1F9FAD0CFBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB882CD-3B85-4D62-A9F1-1F9FAD0CFBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB882CD-3B85-4D62-A9F1-1F9FAD0CFBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44F0556C-7247-42EC-B94C-1120ED24C727}
+	EndGlobalSection
+EndGlobal
